@@ -11,6 +11,7 @@
           <div style="font-weight: 900; font-size: 15px; text-align: left; color: #282d33;"> Programing Languages </div>
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
           <br/><br/><div style="font-weight: 900; font-size: 15px; text-align: left; color: #282d33;"> Machine Learning (ML) </div>
           <br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           <br/><br/><div style="font-weight: 900; font-size: 15px; text-align: left; color: #282d33;"> Target Platforms </div> 
