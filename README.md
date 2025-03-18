@@ -1,9 +1,9 @@
 <div align= "center">
-    <img style="transform: scaleX(-1);" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello%20World!&fontColor=ffffff&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=!dlroW%20olleH&animation=&fontColor=ffffff&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 나는 이종욱이다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 반갑다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저를 찾아오셨군요 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 흐흐흐 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
