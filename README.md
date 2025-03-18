@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello%20World!&animation=&fontColor=ffffff&fontSize=90&reversal=true" />
+    <img style="transform: scaleX(-1);" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello%20World!&fontColor=ffffff&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 나는 이종욱이다 </h2>  
