@@ -16,6 +16,8 @@
 
 ## 🌌 Welcome to My Digital Universe! ✨
 
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=gray&label=Hits%20|&size=small" alt="hits" /></a>
+
 <div align="center">
   <h3>💫 Where Code Meets Creativity & Innovation Never Sleeps 🌙</h3>
 
