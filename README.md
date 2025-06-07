@@ -28,6 +28,8 @@ _Step into my world of endless possibilities, where every line of code tells a s
 
 </div>
 
+<!-- About Me section -->
+
 <h4>⚡ What I'm Up To</h4>
 
 <ul>
@@ -39,19 +41,22 @@ _Step into my world of endless possibilities, where every line of code tells a s
     </ul>
   </li>
 
-  <li>Pursuing a Bachelor's Degree at Chungnam National University.</li>
+  <li>Pursuing a Bachelor's Degree at Chungnam National University 🎓</li>
 </ul>
 
 <!-- "Papers Section" -->
 <h4>📜 Papers</h4>
-<li>
-    <i>🔬 Currently brewing some groundbreaking research in my digital lab... ☕✨</i>
-</li>
-<li>
-    <i>📚 Stay tuned for publications that might just change the world! 🚀🧠</i>
-    <br>
-    <sub><i>(Or at least make your code run faster 😅)</i></sub>
-</li>
+
+<ul>
+  <li>
+      <i>🔬 Currently brewing some groundbreaking research in my digital lab... ☕✨</i>
+  </li>
+  <li>
+      <i>📚 Stay tuned for publications that might just change the world! 🚀🧠</i>
+      <br>
+      <sub><i>(Or at least make your code run faster 😅)</i></sub>
+  </li>
+</ul>
 
 <!-- "Awards" Section -->
 
