@@ -33,9 +33,9 @@ _Step into my world of endless possibilities, where every line of code tells a s
 <ul>
   <li>Working on multiple projects with the <a href="https://github.com/thisisthepy">Thisisthepy Group</a>:
     <ul>
-      <li><a href="https://github.com/thisisthepy/pypackpack">PyPackPack (PPP) Project</a>: A multiplatform solution to distribute python project.</li>
-      <li><a href="https://github.com/thisisthepy/pip-jit">pip-jit Project</a>: A just-in-time build tool/service to create cross-platform python binary wheels (jitpack.io like).</li>
-      <li><a href="https://github.com/thisisthepy/PyREPL">PyREPL Project</a>: UI-Enabled Python REPL for Android/iOS/Desktop.</li>
+      <li><a href="https://github.com/thisisthepy/pypackpack">PyPackPack (PPP)</a>: A multiplatform solution to distribute python project.</li>
+      <li><a href="https://github.com/thisisthepy/pip-jit">pip-jit</a>: A just-in-time build tool/service to create cross-platform python binary wheels (jitpack.io like).</li>
+      <li><a href="https://github.com/thisisthepy/PyREPL">PyREPL</a>: UI-Enabled Python REPL for Android/iOS/Desktop.</li>
     </ul>
   </li>
 
