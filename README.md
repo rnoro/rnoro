@@ -12,19 +12,20 @@
 
 <!-- Welcome section -->
 
-<div align="center">
+<div>
 
 ## 🌌 Welcome to My Digital Universe! ✨
 
 <div align="center">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Coding Vibes">
-    <br>
-    <em>^ Literally me coding at 3 AM</em>
-  </div>
-
-### 💫 _Where Code Meets Creativity & Innovation Never Sleeps_ 🌙
+  <h3>💫 Where Code Meets Creativity & Innovation Never Sleeps 🌙</h3>
 
 _Step into my world of endless possibilities, where every line of code tells a story and every project is a new adventure!_
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Coding Vibes">
+  <br>
+  <em>^ Literally me coding at 3 AM</em>
+</div>
 
 </div>
 
@@ -33,7 +34,7 @@ _Step into my world of endless possibilities, where every line of code tells a s
 <h4>⚡ What I'm Up To</h4>
 
 <ul>
-  <li>Working on multiple projects with the <a href="https://github.com/thisisthepy">Thisisthepy Group</a>:
+  <li>Working on multiple projects with the <a href="https://github.com/thisisthepy">Thisisthepy</a> Group:
     <ul>
       <li><a href="https://github.com/thisisthepy/pypackpack">PyPackPack (PPP)</a>: A multiplatform solution to distribute python project.</li>
       <li><a href="https://github.com/thisisthepy/pip-jit">pip-jit</a>: A just-in-time build tool/service to create cross-platform python binary wheels (jitpack.io like).</li>
@@ -58,9 +59,25 @@ _Step into my world of endless possibilities, where every line of code tells a s
   </li>
 </ul>
 
+</div>
+
+<h4> 🎯 On My Learning Radar </h4>
+
+- 🤖 **Advanced AI/ML Techniques** - Federated Learning, Self-Supervised Learning, Transformer Architecture
+- 🧠 **On-Device AI & LLM Deployment** - Bringing intelligent models directly to edge devices for real-time inference
+- 📱 **Cross-Platform Development** - Perfecting the art of "write once, run everywhere"
+- ⚡ **Performance Optimization** - Making code faster and more efficient
+- 🔐 **Cybersecurity** - Understanding the dark arts of digital protection
+
+<h4> 📚 Currently Reading </h4>
+
+- "Clean Architecture" by Robert C. Martin 📖
+
+<h4 align="center">🚀 Always Learning, Always Growing! 🌟</h4>
+
 <!-- "Awards" Section -->
 
-## 🏆 Awards & Trophy Hunt
+## 🏆 Awards
 
 <div align="center">
 
@@ -137,83 +154,6 @@ _(Spoiler: More awards incoming... I can feel it!_ 🚀*)*
 
 <br>
 
-<!-- Current learning section -->
-
-## 🌱 Currently Growing & Exploring
-
-<div align="center">
-
-🚀 **Always Learning, Always Growing!** 🌟
-
-</div>
-
-### 🎯 On My Learning Radar
-
-- 🤖 **Advanced AI/ML Techniques** - Federated Learning, Self-Supervised Learning, Transformer Architecture
-- ⚡ **Performance Optimization** - Making code faster and more efficient
-- 🌐 **Cloud Architecture** - Mastering scalable distributed systems
-- 📱 **Cross-Platform Development** - Perfecting the art of "write once, run everywhere"
-- 🔐 **Cybersecurity** - Understanding the dark arts of digital protection
-
-### 📚 Currently Reading
-
-- "Clean Architecture" by Robert C. Martin 📖
-
-<br>
-
-<!-- Fun Facts section -->
-
-## 🎯 Fun Facts & Quirks About Me
-
-💡 _**Fun Fact:** Most of my productive coding happens between 10 PM - 2 AM!_ 🌙☕
-
-<div align="center">
-
-### 🌌 _The Human Behind the Code_ ✨
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="20%">
-      🌙<br>
-      <strong>Night Owl</strong><br>
-      <em>My best code is written at 2 AM ☕</em>
-    </td>
-    <td align="center" width="20%">
-      🎮<br>
-      <strong>Gamer</strong><br>
-      <em>When not coding, I'm probably gaming 🎯</em>
-    </td>
-    <td align="center" width="20%">
-      🍜<br>
-      <strong>Foodie</strong><br>
-      <em>Fueled by ramen and curiosity 🔥</em>
-    </td>
-    <td align="center" width="20%">
-      🎵<br>
-      <strong>Music Lover</strong><br>
-      <em>Coding with pop on repeat 🎧</em>
-    </td>
-    <td align="center" width="20%">
-      🚀<br>
-      <strong>Space Enthusiast</strong><br>
-      <em>Dream of coding on Mars 🛸</em>
-    </td>
-  </tr>
-</table>
-
-### 🎲 Random Developer Facts
-
-- 💻 **Code Editor**: VS Code with 47 extensions (and counting...)
-- ☕ **Coffee Ratio**: 1 bug fix = 2 cups of coffee
-- 🎨 **Favorite Color Scheme**: Dark mode everything (my eyes thank me)
-- 🔧 **Debugging Style**: Print statements first, debugger second 😅
-- 🚴‍♂️ **Rubber Duck**: Actually talks to a mini LEGO figure on my desk
-- 📚 **Learning Method**: Google! and YouTube tutorials at 1.5x speed
-
-<br>
-
 <!-- Contact information section -->
 
 ## 🌟 Let's Connect & Create Magic Together!
@@ -260,6 +200,57 @@ _(Spoiler: More awards incoming... I can feel it!_ 🚀*)*
 </p>
 
 </div>
+
+<!-- Fun Facts section -->
+
+## 🎯 Fun Facts & Quirks About Me
+
+💡 _**Fun Fact:** Most of my productive coding happens between 10 PM - 3 AM!_ 🌙☕
+
+<div align="center">
+
+### 🌌 _The Human Behind the Code_ ✨
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      🌙<br>
+      <strong>Night Owl</strong><br>
+      <em>My best code is written at 2 AM ☕</em>
+    </td>
+    <td align="center" width="20%">
+      🎮<br>
+      <strong>Gamer</strong><br>
+      <em>When not coding, I'm probably gaming 🎯</em>
+    </td>
+    <td align="center" width="20%">
+      🍜<br>
+      <strong>Foodie</strong><br>
+      <em>Fueled by ramen and curiosity 🔥</em>
+    </td>
+    <td align="center" width="20%">
+      🎵<br>
+      <strong>Music Lover</strong><br>
+      <em>Coding with pop on repeat 🎧</em>
+    </td>
+    <td align="center" width="20%">
+      🚀<br>
+      <strong>Space Enthusiast</strong><br>
+      <em>Dream of coding on Mars 🛸</em>
+    </td>
+  </tr>
+</table>
+
+### 🎲 Random Developer Facts
+
+- 💻 **Code Editor**: VS Code with 47 extensions (and counting...)
+- ☕ **Coffee Ratio**: 1 bug fix = 2 cups of coffee
+- 🎨 **Favorite Color Scheme**: Dark mode everything (my eyes thank me)
+- 🔧 **Debugging Style**: Print statements first, debugger second 😅
+- 🚴‍♂️ **Rubber Duck**: Actually talks to a mini LEGO figure on my desk
+- 📚 **Learning Method**: Google! and YouTube tutorials at 1.5x speed
 
 <br>
 
