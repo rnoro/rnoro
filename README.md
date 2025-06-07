@@ -1,7 +1,7 @@
 <!-- Header with animated greeting -->
 <div align="center">
     <!-- Main animated header -->
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontColor=ffffff&height=160&text=!bl%C9%BFoW%20oll%C9%98H&fontSize=80&fontAlign=50&fontAlignY=45" alt="Hello World Header" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontColor=ffffff&height=160&text=!bl%C9%BFoW%20oll%C9%98H&fontSize=80&fontAlign=50&fontAlignY=60" alt="Hello World Header" />
 </div>
 
 <div align="center">
