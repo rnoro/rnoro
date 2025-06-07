@@ -4,10 +4,6 @@
     <div style="transform: scaleX(-1); width: 100%; display: inline-block;">
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&fontColor=ffffff&height=140&text=Hello%20World!&fontSize=70&fontAlign=50&fontAlignY=40" alt="Reverse Hello World" />
     </div>
-    <!-- Subtitle -->
-    <div style="margin-top: -50px; position: relative; z-index: 10;">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&text=%E2%9C%A8%20Thinking%20Outside%20the%20Box%20%F0%9F%92%A1&fontSize=24&fontAlign=50&fontAlignY=50&fontColor=gradient&animation=twinkling" alt="Subtitle" />
-    </div>
 </div>
 
 <!-- Visitor counter -->
@@ -16,7 +12,7 @@
 </div>
 
 <div align="center">
-    <a href="https://wakatime.com/@94eaa12e-66bc-43aa-a11f-ecab7f490b0a"><img src="https://wakatime.com/badge/user/94eaa12e-66bc-43aa-a11f-ecab7f490b0a.svg" alt="Total time coded since May 16 2024" /></a>
+    <a href="https://wakatime.com/@94eaa12e-66bc-43aa-a11f-ecab7f490b0a"><img src="https://wakatime.com/badge/user/94eaa12e-66bc-43aa-a11f-ecab7f490b0a.svg?style=for-the-badge" alt="Total time coded since May 16 2024" /></a>
 </div>
 
 <!-- Welcome section -->
@@ -138,32 +134,106 @@ _(Spoiler: More awards incoming... I can feel it!_ 🚀*)*
 
 <!-- Contact information section -->
 
-## 📫 Contact Me
-
-Feel free to reach out if you'd like to collaborate or just say hello!
+## � Let's Connect & Create Magic Together!
 
 <div align="center">
     
+🌟 _Ready to collaborate, brainstorm, or just chat about the latest tech trends?_ 🚀  
+💫 _Drop me a line - I'm always excited to meet fellow creators and innovators!_ ✨
+
+<br>
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rnoro5122@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rnoro)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rnoro_dev)
+
+<br>
+
+💡 _**Pro Tip:** Mention "GitHub" in your message for a guaranteed quick response!_ 😉
 
 </div>
 
 <br>
 
-<!-- Fun Facts section -->
+<!-- Current learning section -->
 
-## 🎯 Fun Facts About Me
+## 🌱 Currently Growing & Exploring
 
 <div align="center">
 
-🌙 **Night Owl** - My best code is written at 2 AM ☕  
-🎮 **Gamer** - When not coding, I'm probably gaming 🎯  
-🍜 **Foodie** - Fueled by ramen and curiosity 🔥  
-🎵 **Music Lover** - Coding with pop on repeat 🎧  
-🚀 **Space Enthusiast** - Dream of coding on Mars someday 🛸
+🚀 **Always Learning, Always Growing!** 🌟
 
+</div>
+
+### 🎯 On My Learning Radar
+
+- 🤖 **Advanced AI/ML Techniques** - Federated Learning, Self-Supervised Learning, Transformer Architecture
+- ⚡ **Performance Optimization** - Making code faster and more efficient
+- 🌐 **Cloud Architecture** - Mastering scalable distributed systems
+- 📱 **Cross-Platform Development** - Perfecting the art of "write once, run everywhere"
+- 🔐 **Cybersecurity** - Understanding the dark arts of digital protection
+
+### 📚 Currently Reading
+
+- "Clean Architecture" by Robert C. Martin 📖
+
+<br>
+
+<!-- Fun Facts section -->
+
+## 🎯 Fun Facts & Quirks About Me
+
+💡 _**Fun Fact:** Most of my productive coding happens between 10 PM - 2 AM!_ 🌙☕
+
+<div align="center">
+
+### � _The Human Behind the Code_ ✨
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      �🌙<br>
+      <strong>Night Owl</strong><br>
+      <em>My best code is written at 2 AM ☕</em>
+    </td>
+    <td align="center" width="20%">
+      🎮<br>
+      <strong>Gamer</strong><br>
+      <em>When not coding, I'm probably gaming 🎯</em>
+    </td>
+    <td align="center" width="20%">
+      🍜<br>
+      <strong>Foodie</strong><br>
+      <em>Fueled by ramen and curiosity 🔥</em>
+    </td>
+    <td align="center" width="20%">
+      🎵<br>
+      <strong>Music Lover</strong><br>
+      <em>Coding with pop on repeat 🎧</em>
+    </td>
+    <td align="center" width="20%">
+      🚀<br>
+      <strong>Space Enthusiast</strong><br>
+      <em>Dream of coding on Mars 🛸</em>
+    </td>
+  </tr>
+</table>
+
+### 🎲 Random Developer Facts
+
+- 💻 **Code Editor**: VS Code with 47 extensions (and counting...)
+- ☕ **Coffee Ratio**: 1 bug fix = 2 cups of coffee
+- 🎨 **Favorite Color Scheme**: Dark mode everything (my eyes thank me)
+- 🔧 **Debugging Style**: Print statements first, debugger second 😅
+- 🚴‍♂️ **Rubber Duck**: Actually talks to a mini LEGO figure on my desk
+- 📚 **Learning Method**: Google! and YouTube tutorials at 1.5x speed
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Coding Vibes">
+  <br>
+  <em>^ Literally me coding at 3 AM</em>
 </div>
 
 <br>
@@ -194,29 +264,37 @@ Feel free to reach out if you'd like to collaborate or just say hello!
 
 <br>
 
-<!-- GitHub Trophies section -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rnoro&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-<br>
-
 <!-- Footer section -->
 <div align="center">
-    
-### Thanks for visiting! 😊
-
-_Let's build something amazing together!_ 🚀
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Love">
-
-**"Code is poetry written in logic"** ✨
 
 ---
 
-<sub>⭐ **Star this repo if you like it!** | 🍴 **Fork it to make it your own!** | 💖 **Follow for more awesome projects!**</sub>
+### 🚀 Ready to Build Something Amazing Together?
 
-</div>
+_Let's connect and turn ideas into reality!_ ✨
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Love">
+
+**"Code is poetry written in logic, and every bug is just a plot twist!"** 💫
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      ⭐<br>
+      <strong>Star this repo</strong><br>
+      <em>if you like it!</em>
+    </td>
+    <td align="center" width="33%">
+      🍴<br>
+      <strong>Fork it</strong><br>
+      <em>to make it your own!</em>
+    </td>
+    <td align="center" width="33%">
+      💖<br>
+      <strong>Follow me</strong><br>
+      <em>for more awesome projects!</em>
+    </td>
+  </tr>
+</table>
