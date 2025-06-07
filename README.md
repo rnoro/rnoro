@@ -1,27 +1,26 @@
 <!-- Header with animated greeting -->
-<div align="center" style="width: 100%;">
-    <!-- 좌우반전된 Hello World! -->
-    <div style="transform: scaleX(-1); width: 100%; display: inline-block;">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=fadeIn&fontColor=ffffff&height=140&text=Hello%20World!&fontSize=70&fontAlign=50&fontAlignY=40" alt="Reverse Hello World" />
-    </div>
-</div>
-
-<!-- Visitor counter -->
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rnoro&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views" />
+    <!-- Main animated header -->
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&fontColor=ffffff&height=160&text=!bl%C9%BFoW%20oll%C9%98H&fontSize=80&fontAlign=50&fontAlignY=45" alt="Hello World Header" />
 </div>
 
 <div align="center">
     <a href="https://wakatime.com/@94eaa12e-66bc-43aa-a11f-ecab7f490b0a"><img src="https://wakatime.com/badge/user/94eaa12e-66bc-43aa-a11f-ecab7f490b0a.svg?style=for-the-badge" alt="Total time coded since May 16 2024" /></a>
 </div>
 
+<br>
+
 <!-- Welcome section -->
 
 <div align="center">
-    
-## � Welcome to My Digital Universe! ✨
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" alt="Welcome">
+## 🌌 Welcome to My Digital Universe! ✨
+
+<div align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Coding Vibes">
+    <br>
+    <em>^ Literally me coding at 3 AM</em>
+  </div>
 
 ### 💫 _Where Code Meets Creativity & Innovation Never Sleeps_ 🌙
 
@@ -30,6 +29,7 @@ _Step into my world of endless possibilities, where every line of code tells a s
 </div>
 
 <h4>⚡ What I'm Up To</h4>
+
 <ul>
   <li>Working on multiple projects with the <a href="https://github.com/thisisthepy">Thisisthepy Group</a>:
     <ul>
@@ -38,20 +38,20 @@ _Step into my world of endless possibilities, where every line of code tells a s
       <li><a href="https://github.com/thisisthepy/PyREPL">PyREPL Project</a>: UI-Enabled Python REPL for Android/iOS/Desktop.</li>
     </ul>
   </li>
+
   <li>Pursuing a Bachelor's Degree at Chungnam National University.</li>
 </ul>
 
 <!-- "Papers Section" -->
 <h4>📜 Papers</h4>
-<div align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70" height="70" alt="Thinking">
-    <br>
+<li>
     <i>🔬 Currently brewing some groundbreaking research in my digital lab... ☕✨</i>
-    <br>
+</li>
+<li>
     <i>📚 Stay tuned for publications that might just change the world! 🚀🧠</i>
     <br>
     <sub><i>(Or at least make your code run faster 😅)</i></sub>
-</div>
+</li>
 
 <!-- "Awards" Section -->
 
@@ -132,29 +132,6 @@ _(Spoiler: More awards incoming... I can feel it!_ 🚀*)*
 
 <br>
 
-<!-- Contact information section -->
-
-## � Let's Connect & Create Magic Together!
-
-<div align="center">
-    
-🌟 _Ready to collaborate, brainstorm, or just chat about the latest tech trends?_ 🚀  
-💫 _Drop me a line - I'm always excited to meet fellow creators and innovators!_ ✨
-
-<br>
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rnoro5122@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rnoro)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rnoro_dev)
-
-<br>
-
-💡 _**Pro Tip:** Mention "GitHub" in your message for a guaranteed quick response!_ 😉
-
-</div>
-
-<br>
-
 <!-- Current learning section -->
 
 ## 🌱 Currently Growing & Exploring
@@ -187,14 +164,14 @@ _(Spoiler: More awards incoming... I can feel it!_ 🚀*)*
 
 <div align="center">
 
-### � _The Human Behind the Code_ ✨
+### 🌌 _The Human Behind the Code_ ✨
 
 </div>
 
 <table>
   <tr>
     <td align="center" width="20%">
-      �🌙<br>
+      🌙<br>
       <strong>Night Owl</strong><br>
       <em>My best code is written at 2 AM ☕</em>
     </td>
@@ -230,10 +207,27 @@ _(Spoiler: More awards incoming... I can feel it!_ 🚀*)*
 - 🚴‍♂️ **Rubber Duck**: Actually talks to a mini LEGO figure on my desk
 - 📚 **Learning Method**: Google! and YouTube tutorials at 1.5x speed
 
+<br>
+
+<!-- Contact information section -->
+
+## 🌟 Let's Connect & Create Magic Together!
+
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Coding Vibes">
-  <br>
-  <em>^ Literally me coding at 3 AM</em>
+    
+🌟 _Ready to collaborate, brainstorm, or just chat about the latest tech trends?_ 🚀  
+💫 _Drop me a line - I'm always excited to meet fellow creators and innovators!_ ✨
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rnoro5122@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rnoro)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rnoro_dev)
+
+<br>
+
+💡 _**Pro Tip:** Mention "GitHub" in your message for a guaranteed quick response!_ 😉
+
 </div>
 
 <br>
