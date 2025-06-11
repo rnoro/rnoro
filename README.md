@@ -63,23 +63,9 @@ _Step into my world of endless possibilities, where every line of code tells a s
 
 </div>
 
-<h4> 🎯 On My Learning Radar </h4>
-
-- 🤖 **Advanced AI/ML Techniques** - Federated Learning, Self-Supervised Learning, Transformer Architecture
-- 🧠 **On-Device AI & LLM Deployment** - Bringing intelligent models directly to edge devices for real-time inference
-- 📱 **Cross-Platform Development** - Perfecting the art of "write once, run everywhere"
-- ⚡ **Performance Optimization** - Making code faster and more efficient
-- 🔐 **Cybersecurity** - Understanding the dark arts of digital protection
-
-<h4> 📚 Currently Reading </h4>
-
-- "Clean Architecture" by Robert C. Martin 📖
-
-<h4 align="center">🚀 Always Learning, Always Growing! 🌟</h4>
-
 <!-- "Awards" Section -->
 
-## 🏆 Awards
+<h4> 🏆 Awards </h4>
 
 <div align="center">
 
@@ -94,7 +80,23 @@ _(정보통신산업진흥원 원장상)_
 🔥 _Stay tuned - the trophy cabinet is about to get crowded!_ 🏆✨  
 _(Spoiler: More awards incoming... I can feel it!_ 🚀*)*
 
+## <br>
+
 </div>
+
+<h4> 🎯 On My Learning Radar </h4>
+
+- 🤖 **Advanced AI/ML Techniques** - Federated Learning, Self-Supervised Learning, Transformer Architecture
+- 🧠 **On-Device AI & LLM Deployment** - Bringing intelligent models directly to edge devices for real-time inference
+- 📱 **Cross-Platform Development** - Perfecting the art of "write once, run everywhere"
+- ⚡ **Performance Optimization** - Making code faster and more efficient
+- 🔐 **Cybersecurity** - Understanding the dark arts of digital protection
+
+<h4> 📚 Currently Reading </h4>
+
+- "Clean Architecture" by Robert C. Martin 📖
+
+<h4 align="center">🚀 Always Learning, Always Growing! 🌟</h4>
 
 <br>
 
